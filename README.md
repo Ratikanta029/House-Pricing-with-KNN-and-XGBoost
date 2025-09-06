@@ -18,7 +18,7 @@ This project predicts house prices using **Machine Learning models**. It applies
   - Data Handling → `pandas`, `numpy`  
   - Visualization → `matplotlib`, `seaborn`  
   - Machine Learning → `scikit-learn`, `xgboost`  
-- **Environment:** Jupyter Notebook / VS Code  
+- **Environment:** Jupyter Notebook  
 
 ---
 
